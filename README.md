@@ -1,4 +1,4 @@
-### Traveling Salesman Problem Solver using Evolutionary Algorithm
+# Traveling Salesman Problem Solver using Evolutionary Algorithm
 
 This repository contains Python code to solve the Traveling Salesman Problem (TSP) using an evolutionary algorithm. The TSP is a classic combinatorial optimization problem where the goal is to find the shortest possible route that visits a set of cities and returns to the original city. This code provides an implementation of the evolutionary algorithm to find an approximate solution to the TSP.
 
